@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mukul Vats</h1>
+<h1>About Me :</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/montyvats884446" target="blank"><img src="https://img.shields.io/twitter/follow/montyvats884446?logo=twitter&style=for-the-badge" alt="montyvats884446" /></a> </p>
